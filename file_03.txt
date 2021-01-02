@@ -1,2 +1,2 @@
 new concent in file_03.txt
-more content in dev1 branch
+conflict content 
